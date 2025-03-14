@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Grief and all of his friends.
 ---
+# Grief and all of His friends.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+🌻Welcome🌻
+
+- [[Blog 1]]
+
